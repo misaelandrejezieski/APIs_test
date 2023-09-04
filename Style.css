@@ -15,6 +15,7 @@ h1{
 }
 
 .box, form {
+    gap: 20px;
     display: flex;
     flex-direction: column;
     justify-content:center;
