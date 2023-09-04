@@ -7,5 +7,11 @@ const Itel = document.querySelector(".tel");
 formulario.addEventListener('submit', function (event){
     event.preventDefault();
 
-    console.log(Inome.value)
+    const dados = {
+        nome: Inome.value,
+        email: Iemail.value,
+        senha: Isenha.value,
+        telefone: Itel.value
+    };
+    console.log(dados)
 });
