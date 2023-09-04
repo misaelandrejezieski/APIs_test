@@ -24,5 +24,13 @@ h1{
 
 input{
     width: 250px;
-    height: 25px;
+    height: 30px;
+    border-radius: 30px;
+    padding: 0 15px 0 15px;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
 }
