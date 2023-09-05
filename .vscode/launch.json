@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "ApiTestApplication",
+            "request": "launch",
+            "mainClass": "br.com.API_test.API_test.ApiTestApplication",
+            "projectName": "API_test"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
