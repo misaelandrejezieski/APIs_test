@@ -1,2 +1,3 @@
 API em Spring Boot com Java.
-Dia 12/09/2023 - sofrndo com o banca de dados - tomcat.
+- Dia 12/09/2023 - sofrndo com o banca de dados - tomcat.
+- Dia 13/09/2023 - configurar todo o computador para desenvolver aplicações Spring Boot Java.
