@@ -1,1 +1,2 @@
 API em Spring Boot com Java.
+Dia 12/09/2023 - sofrndo com o banca de dados - tomcat.
